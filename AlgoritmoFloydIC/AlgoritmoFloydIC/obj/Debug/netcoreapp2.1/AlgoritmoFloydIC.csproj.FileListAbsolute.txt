@@ -1,0 +1,23 @@
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.deps.json
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.runtimeconfig.json
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.runtimeconfig.dev.json
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.dll
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.pdb
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.csprojAssemblyReference.cache
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.AssemblyInfo.cs
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.dll
+C:\Users\Gustavo\Source\Repos\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.pdb
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.deps.json
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.runtimeconfig.json
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.runtimeconfig.dev.json
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.dll
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\bin\Debug\netcoreapp2.1\AlgoritmoFloydIC.pdb
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.csprojAssemblyReference.cache
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.AssemblyInfoInputs.cache
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.AssemblyInfo.cs
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.csproj.CoreCompileInputs.cache
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.dll
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.pdb
+D:\Dropbox\VisualStudio Otimização\AlgoritmoFloydIC\AlgoritmoFloydIC\obj\Debug\netcoreapp2.1\AlgoritmoFloydIC.genruntimeconfig.cache
